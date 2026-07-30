@@ -1,0 +1,21 @@
+generated: '2026-07-19'
+method: searched
+probe: true
+source: https://trust.kilsar.com/
+url: https://trust.kilsar.com/
+platform: Secureframe
+certifications:
+- CMMC 2.0 Level 2
+- SOC 2 Type 1
+evidence:
+- source: https://trust.kilsar.com/
+  keywords:
+  - cmmc 2.0 level 2
+  - soc 2 type 1
+  - trust center
+  - powered by secureframe
+notes: >-
+  Secureframe-hosted trust center (kilsar.secureframetrust.com). CMMC 2.0 Level 2
+  and SOC 2 Type 1 (report available on request) are the named frameworks. No
+  other frameworks (ISO 27001, HIPAA, GDPR, PCI DSS) are named on the page, and no
+  public security contact or vulnerability-disclosure policy is published.
